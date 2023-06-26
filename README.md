@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# my-babys-med-journal
+Baby Medicine Journal: An application to track your baby's medicine records. Built with React, this app allows you to record medicine type, temperature, and notes. Easily add and delete records while maintaining a timestamp. Firebase authentication and database integration planned for future updates.
+>>>>>>> d5754025d7bb560b37ff8aae822bb0df82209ca2
