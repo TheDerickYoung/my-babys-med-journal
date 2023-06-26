@@ -1,0 +1,48 @@
+.medicine-record-card-container {
+  border: none;
+  border-radius: 0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  padding: 1rem;
+  margin: 1.5rem auto;
+  width: 65%;
+  font-size: 1.25rem;
+  position: relative;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+
+  ul {
+    padding: 0;
+    margin: 0;
+
+    li {
+      list-style: none;
+
+      .medicine-card-span {
+        display: block;
+        margin: 0.5rem auto;
+        max-width: calc(100% - 2rem); // Subtracting padding from the container
+      }
+
+      strong {
+        font-size: 1.5rem;
+        color: rgb(78, 173, 248);
+      }
+
+      .date {
+        margin-top: 1.5rem;
+        margin-right: 2rem;
+        position: absolute;
+        top: 0;
+        right: 0;
+        color: rgb(78, 173, 248);
+      }
+
+      .record-buttons {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+  }
+}

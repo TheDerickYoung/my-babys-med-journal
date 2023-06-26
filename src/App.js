@@ -1,23 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import { MedicineForm } from "../src/components/medicine-form/medicine-form.component";
+import { MedicineRecordsList } from "../src/components/medicine-records-list/medicine-records-list.component";
+import "./App.css";
 
 function App() {
+  const [recordsList, setRecordsList] = useState([]);
+
+  const deleteRecord = (uuid) => {
+    const updatedRecords = recordsList.filter((record) => record.uuid !== uuid);
+    setRecordsList(updatedRecords);
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>My Baby's Medicine Journal</h1>
+      <MedicineForm
+        recordsList={recordsList}
+        setRecordsList={setRecordsList}
+        deleteRecord={deleteRecord}
+      />
+
+      <MedicineRecordsList
+        recordsList={recordsList}
+        deleteRecord={deleteRecord}
+        setRecordsList={setRecordsList}
+      />
     </div>
   );
 }
