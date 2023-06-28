@@ -1,6 +1,11 @@
 import React, { useState } from "react";
+
 import { MedicineForm } from "../src/components/medicine-form/medicine-form.component";
 import { MedicineRecordsList } from "../src/components/medicine-records-list/medicine-records-list.component";
+import { Navbar } from "../src/components/navbar/navbar.component";
+
+//import logo from "./assets/baby-journal-logo.png";
+
 import "./App.css";
 
 function App() {
@@ -13,7 +18,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>My Baby's Medicine Journal</h1>
+      <Navbar />
       <MedicineForm
         recordsList={recordsList}
         setRecordsList={setRecordsList}
