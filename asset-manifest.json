@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/css/main.36228970.css",
-    "main.js": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/js/main.321b71f7.js",
-    "static/js/787.a8bfadda.chunk.js": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/js/787.a8bfadda.chunk.js",
-    "static/media/baby-journal-logo.png": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/media/baby-journal-logo.5cb0a2fc45dc18793fa1.png",
-    "index.html": "/TheDerickYoung/my-babys-med-journal-react-version.git/index.html",
-    "main.36228970.css.map": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/css/main.36228970.css.map",
-    "main.321b71f7.js.map": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/js/main.321b71f7.js.map",
-    "787.a8bfadda.chunk.js.map": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/js/787.a8bfadda.chunk.js.map"
+    "main.css": "/my-babys-med-journal-react-version/static/css/main.36228970.css",
+    "main.js": "/my-babys-med-journal-react-version/static/js/main.1cac48ae.js",
+    "static/js/787.a8bfadda.chunk.js": "/my-babys-med-journal-react-version/static/js/787.a8bfadda.chunk.js",
+    "static/media/baby-journal-logo.png": "/my-babys-med-journal-react-version/static/media/baby-journal-logo.5cb0a2fc45dc18793fa1.png",
+    "index.html": "/my-babys-med-journal-react-version/index.html",
+    "main.36228970.css.map": "/my-babys-med-journal-react-version/static/css/main.36228970.css.map",
+    "main.1cac48ae.js.map": "/my-babys-med-journal-react-version/static/js/main.1cac48ae.js.map",
+    "787.a8bfadda.chunk.js.map": "/my-babys-med-journal-react-version/static/js/787.a8bfadda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36228970.css",
-    "static/js/main.321b71f7.js"
+    "static/js/main.1cac48ae.js"
   ]
 }
