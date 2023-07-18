@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/css/main.36228970.css",
+    "main.js": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/js/main.321b71f7.js",
+    "static/js/787.a8bfadda.chunk.js": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/js/787.a8bfadda.chunk.js",
+    "static/media/baby-journal-logo.png": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/media/baby-journal-logo.5cb0a2fc45dc18793fa1.png",
+    "index.html": "/TheDerickYoung/my-babys-med-journal-react-version.git/index.html",
+    "main.36228970.css.map": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/css/main.36228970.css.map",
+    "main.321b71f7.js.map": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/js/main.321b71f7.js.map",
+    "787.a8bfadda.chunk.js.map": "/TheDerickYoung/my-babys-med-journal-react-version.git/static/js/787.a8bfadda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36228970.css",
+    "static/js/main.321b71f7.js"
+  ]
+}
