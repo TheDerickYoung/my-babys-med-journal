@@ -2,6 +2,8 @@
 
 This application allows the user to document and record their baby's medicine, temperature and any other relevant notes to help make it easier to track and manage medications and the time they were given between parents, family, and babysitters, etc.
 
+<img width="1439" alt="react-baby-med-journal" src="https://github.com/TheDerickYoung/my-babys-med-journal-react-version/assets/119906716/198b2760-3e9d-456e-8bbd-949e5ff66ded">
+
 Link to Project: (https://thederickyoung.github.io/my-babys-med-journal-react-version/)
 ## How It's Made: 
 
