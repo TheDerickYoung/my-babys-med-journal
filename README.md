@@ -49,4 +49,4 @@ During the development of the Baby's Med Journal (React Version) project, severa
 
 - Testing and Debugging: Writing tests and utilizing debugging tools proved valuable in ensuring the project's stability and identifying and resolving issues efficiently. Tools like React Testing Library or Jest can be employed to write comprehensive tests for React components.
 
-By embracing continuous learning and exploring these concepts and technologies, the Baby's Med Journal (React Version) project was successfully developed, providing a robust and user-friendly solution for tracking infant medication, temperature, and other relevant information.
+ Derick Young Jr. 
